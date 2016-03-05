@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vindicatainquagr00sfon_0006.png"; bbox 0 0 2112 3491; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1212 0 1983 146">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1123 0 1983 146">
+     <span class='ocr_line' id='line_1_1' title="bbox 1212 0 1983 146; baseline 0.005 -139.586"><span class='ocrx_word' id='word_1_1' title='bbox 1212 31 1239 85; x_wconf 94' lang='lat' dir='ltr'> </span> <span class='ocrx_word' id='word_1_2' title='bbox 1284 22 1432 85; x_wconf 25' lang='grc' dir='ltr'>’ἕως</span> <span class='ocrx_word' id='word_1_3' title='bbox 1467 0 1643 93; x_wconf 28' lang='grc' dir='ltr'>’.ΝΜ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1689 0 1983 146; x_wconf 25' lang='lat' dir='ltr'>⁵37(ng</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1236 164 1779 245">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1236 164 1875 247">
+     <span class='ocr_line' id='line_1_2' title="bbox 1236 164 1779 245; baseline -0.025 -8"><span class='ocrx_word' id='word_1_5' title='bbox 1236 200 1244 209; x_wconf 30' lang='lat' dir='ltr'>x</span> <span class='ocrx_word' id='word_1_6' title='bbox 1281 164 1593 247; x_wconf 35' lang='lat' dir='ltr'>&amp;ww</span> <span class='ocrx_word' id='word_1_7' title='bbox 1637 174 1779 245; x_wconf 43' lang='lat'>„45-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
